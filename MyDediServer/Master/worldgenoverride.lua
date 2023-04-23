@@ -1,0 +1,21 @@
+KLEI     1 return {
+	override_enabled = true,
+	worldgen_preset = "SURVIVAL_TOGETHER",
+	settings_preset = "SURVIVAL_TOGETHER",
+	overrides = {
+		beefaloheat = "rare",
+		berrybush = "often",
+		carrot = "often",
+		carrots_regrowth = "fast",
+		flint = "often",
+		frograin = "rare",
+		grass = "often",
+		regrowth = "fast",
+		rock = "often",
+		sapling = "often",
+		weather = "rare",
+		wildfires = "rare",
+		world_size = "huge",
+		worldseed = 1622020197,
+	},
+}

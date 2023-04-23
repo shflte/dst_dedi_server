@@ -1,0 +1,137 @@
+[00:00:00]: PersistRootStorage is now /home/shflte/.klei//DoNotStarveTogether/MyDediServer/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 551676
+[00:00:00]: Current time: Sun Apr 23 00:04:00 2023
+
+[00:00:00]: System Name: Linux
+[00:00:00]: Host Name: shlenovo
+[00:00:00]: Release(Kernel) Version: 5.15.0-58-generic
+[00:00:00]: Kernel Build Timestamp: #64-Ubuntu SMP Thu Jan 5 11:43:13 UTC 2023
+[00:00:00]: Machine Arch: x86_64
+[00:00:00]: Don't Starve Together: 551676 LINUX
+[00:00:00]: Build Date: 1745
+[00:00:00]: Mode: 64-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -console -cluster MyDediServer -monitor_parent_process 434627 -shard Master 
+[00:00:00]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
+[00:00:00]: Initializing distribution platform
+[00:00:00]: ....Done
+[00:00:00]: THREAD - started 'GAClient' (139924258018880)
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(11000, 27018)
+[00:00:00]: [Steam] SteamGameServer_Init(11000, 27019)
+[00:00:00]: [Steam] SteamGameServer_Init(11000, 27020)
+[00:00:00]: [Steam] SteamGameServer_Init(11000, 27021)
+[00:00:00]: [Steam] SteamGameServer_Init success
+[00:00:00]: ProfileIndex:3.70
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Platform: 1
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: THREAD - started 'StreamInput' (139924202133056)
+[00:00:00]: OnLoadPermissionList: /home/shflte/.klei//DoNotStarveTogether/MyDediServer/blocklist.txt (Failure)
+[00:00:00]: OnLoadPermissionList: /home/shflte/.klei//DoNotStarveTogether/MyDediServer/adminlist.txt (Failure)
+[00:00:00]: OnLoadUserIdList: /home/shflte/.klei//DoNotStarveTogether/MyDediServer/whitelist.txt (Failure)
+[00:00:00]: Token retrieved from: /home/shflte/.klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
+[00:00:00]: Token retrieved from: /home/shflte/.klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:00]: GameSpecific initialize: Okay
+[00:00:00]: cGame::StartPlaying
+[00:00:00]: AppVersion::GetArchitecture() x64
+[00:00:00]: LOADING LUA
+[00:00:00]: DoLuaFile scripts/main.lua
+[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]:   taskgrouplist:	default	Together	
+[00:00:01]:   taskgrouplist:	classic	Classic	
+[00:00:01]:   taskgrouplist:	cave_default	Underground	
+[00:00:01]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:01]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:01]: Running main.lua
+	
+[00:00:01]: Could not load modindex	
+[00:00:01]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:03]: [Workshop] Item query page 0, size: 11, total size: 11
+[00:00:03]: [Workshop] Item query queued IDs: 376333686 1378549454 569043634 378160973 466732225 501385076 767776640 1595631294 375859599 1185229307 356930882
+[00:00:03]: [Workshop] Item query sent
+[00:00:03]: [Workshop] ItemQuery got this many results: 11, matching: 11
+[00:00:03]: [Workshop] ModQuery got 11 results
+[00:00:03]: [Workshop] ModQuery already have IDs: {1.9.1,376333686} {5.1.43,1378549454} {1.6.8.1,569043634} {1.7.4,378160973} {full 4,466732225} {1.4.0,501385076} {1.08,767776640} {1.1.5,1595631294} {2.2.03,375859599} {73,1185229307} {1.8,356930882}
+[00:00:03]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:00:03]: [Workshop] ItemQuery finished downloading everything
+[00:00:03]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:04]: LOADING LUA SUCCESS
+[00:00:04]: PlayerDeaths could not load morgue	
+[00:00:04]: PlayerHistory could not load player_history	
+[00:00:04]: ServerPreferences could not load server_preferences	
+[00:00:04]: ConsoleScreenSettings could not load consolescreen	
+[00:00:04]: bloom_enabled	true	
+[00:00:04]: OnFilesLoaded()	
+[00:00:04]: OnUpdatePurchaseStateComplete	
+[00:00:04]: Klump load on boot started.	
+[00:00:04]: Klump files loaded: 	0	
+[00:00:05]: 	Load FE	
+[00:00:06]: THREAD - started 'FilesExistAsyncThread' (139923583657536)
+[00:00:06]: FilesExistAsyncThread started (21679 files)...
+[00:00:06]: 	Load FE: done	
+[00:00:06]: Check for write access: TRUE
+[00:00:06]: Check for read access: TRUE
+[00:00:06]: Available disk space for save files: 54261 MB
+[00:00:06]: ModIndex: Load sequence finished successfully.	
+[00:00:06]: Reset() returning
+[00:00:06]: ... FilesExistAsyncThread complete
+[00:00:06]: [200] Account Communication Success (6)
+[00:00:06]: Cached userid (null) saved to /home/shflte/.klei//DoNotStarveTogether/MyDediServer/Master/save/cached_userid
+[00:00:06]: Received (KU_NHBLlzMm) from TokenPurpose
+[00:00:06]: Starting Dedicated Server Game	
+[00:00:06]: Network tick rate: U=15(2), D=0
+[00:00:06]: About to start a server with the following settings:
+[00:00:06]:   Dedicated: true
+[00:00:06]:   Online: true
+[00:00:06]:   Passworded: false
+[00:00:06]:   ServerPort: 11000
+[00:00:06]:   SteamAuthPort: 8768
+[00:00:06]:   SteamMasterServerPort: 27018
+[00:00:06]:   ClanID: false
+[00:00:06]:   ClanOnly: false
+[00:00:06]:   ClanAdmin: false
+[00:00:06]:   LanOnly: false
+[00:00:06]:   FriendsOnly: false
+[00:00:06]:   EnableAutosaver: true
+[00:00:06]:   EncodeUserPath: false
+[00:00:06]:   PVP: false
+[00:00:06]:   MaxPlayers: 8
+[00:00:06]:   GameMode: survival
+[00:00:06]:   OverridenDNS: 
+[00:00:06]:   PauseWhenEmpty: true
+[00:00:06]:   IdleTimeout: 1800s
+[00:00:06]:   VoteEnabled: true
+[00:00:06]:   InternetBroadcasting: true
+[00:00:06]: [Error] Server failed to start!
+[00:00:06]: Unhandled exception during server startup: RakNet UDP startup failed: SOCKET_PORT_ALREADY_IN_USE (5)
+[00:00:06]: PushNetworkDisconnectEvent With Reason: "ID_DST_INITIALIZATION_FAILED", reset: false
+[00:00:06]: Details: SOCKET_PORT_ALREADY_IN_USE
+[00:00:06]: [Shard] Stopping shard mode
+[00:00:32]: Collecting garbage...
+[00:00:32]: lua_gc took 0.13 seconds
+[00:00:32]: ~ShardLuaProxy()
+[00:00:32]: ~cEventLeaderboardProxy()
+[00:00:32]: ~ItemServerLuaProxy()
+[00:00:32]: ~InventoryLuaProxy()
+[00:00:32]: ~NetworkLuaProxy()
+[00:00:32]: ~SimLuaProxy()
+[00:00:32]: lua_close took 0.12 seconds
+[00:00:32]: CurlRequestManager::ClientThread::Main() complete
+[00:00:32]: HttpClient2 discarded 0 callbacks.
+[00:00:32]: Shutting down

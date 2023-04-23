@@ -1,0 +1,67 @@
+KLEI     1 return {
+  enabled_mods={
+    ["workshop-1185229307"]={ enabled=true },
+    ["workshop-1378549454"]={ enabled=true },
+    ["workshop-1595631294"]={ enabled=true },
+    ["workshop-1644882423"]={ enabled=true },
+    ["workshop-2581394795"]={ enabled=true },
+    ["workshop-2905450407"]={ enabled=true },
+    ["workshop-356930882"]={ enabled=true },
+    ["workshop-375859599"]={ enabled=true },
+    ["workshop-376333686"]={ enabled=true },
+    ["workshop-378160973"]={ enabled=true },
+    ["workshop-466732225"]={ enabled=true },
+    ["workshop-482843324"]={ enabled=true },
+    ["workshop-501385076"]={ enabled=true },
+    ["workshop-569043634"]={ enabled=true },
+    ["workshop-767776640"]={ enabled=true } 
+  },
+  server={
+    clan={ admin=false, id="", only=false },
+    description="No dumb donkey allowed",
+    encode_user_path=true,
+    game_mode="survival",
+    max_players=8,
+    name="SH server",
+    online_mode=true,
+    password="",
+    playstyle="survival",
+    privacy_type=0,
+    pvp=false,
+    server_language="en" 
+  },
+  session_id="7BB658E4F006B81E",
+  version=5,
+  world={
+    options={
+      background_node_range={ 0, 1 },
+      desc="Delve into the caves... together!",
+      hideminimap=false,
+      id="DST_CAVE",
+      location="cave",
+      max_playlist_position=999,
+      min_playlist_position=0,
+      name="The Caves",
+      numrandom_set_pieces=0,
+      override_level_string=false,
+      overrides={
+        layout_mode="RestrictNodesByKey",
+        roads="never",
+        season_start="default",
+        start_location="caves",
+        task_set="cave_default",
+        world_size="default",
+        wormhole_prefab="tentacle_pillar" 
+      },
+      required_prefabs={ "multiplayer_portal" },
+      settings_desc="Delve into the caves... together!",
+      settings_id="DST_CAVE",
+      settings_name="The Caves",
+      substitutes={  },
+      version=4,
+      worldgen_desc="Delve into the caves... together!",
+      worldgen_id="DST_CAVE",
+      worldgen_name="The Caves" 
+    } 
+  } 
+}

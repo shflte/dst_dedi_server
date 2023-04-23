@@ -1,0 +1,18 @@
+[00:02:03]: [Join Announcement] SHFLTE
+[00:12:19]: [Join Announcement] Stetas
+[00:33:07]: [Death Announcement] SHFLTE was killed by Guard Pig. She became a spooky ghost!
+[00:36:38]: [Resurrect Announcement] SHFLTE was resurrected by Fire Pit.
+[00:39:58]: [Death Announcement] SHFLTE was killed by Guard Pig. She became a spooky ghost!
+[00:42:44]: [Resurrect Announcement] SHFLTE was resurrected by Fire Pit.
+[00:42:47]: [Join Announcement] 黑魔
+[00:43:11]: [Say] (KU_vCuBTLn7) 黑魔: hi
+[00:52:45]: [Death Announcement] SHFLTE was killed by Clockwork Bishop. She became a spooky ghost!
+[00:52:53]: [Resurrect Announcement] SHFLTE was resurrected by Fire Pit.
+[00:53:21]: [Death Announcement] SHFLTE was killed by Clockwork Bishop. She became a spooky ghost!
+[00:53:30]: [Resurrect Announcement] SHFLTE was resurrected by Fire Pit.
+[00:57:16]: [Say] (KU_NHBLlzMm) SHFLTE: wow
+[00:57:33]: [Say] (KU_NHBLlzMm) SHFLTE: I didnt know that character can heal
+[00:57:43]: [Say] (KU_vCuBTLn7) 黑魔: yes
+[01:11:16]: [Skin Announcement] SHFLTE legs_jeans_black_scribble
+[01:15:32]: [Skin Announcement] Stetas feet_waxwell_wizard
+[01:16:24]: [Say] (KU_NHBLlzMm) SHFLTE: gotta go
