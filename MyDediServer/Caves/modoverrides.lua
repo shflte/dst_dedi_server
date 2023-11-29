@@ -9,6 +9,7 @@ return {
 	["workshop-1595631294"] = {enabled = true}, -- Mini sign
 	["workshop-2581394795"] = {enabled = true}, -- Ult extra slot
 	["workshop-375859599"] = {enabled = true}, -- Health Info
+	["workshop-666155465"] = {enabled = true}, -- Show Me 
 	["workshop-1185229307"] = {enabled = true}, -- Epic Health Bar
 	["workshop-356930882"] = {enabled = true}, -- Infinite tent
 	["workshop-1644882423"] = {enabled = true}, -- Refilable salt lick

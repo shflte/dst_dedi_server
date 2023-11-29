@@ -1,0 +1,41 @@
+[00:01:59]: [Join Announcement] Stetas
+[00:03:52]: [Resurrect Announcement] Stetas was resurrected by Fire Pit.
+[00:08:43]: [Join Announcement] SHFLTE
+[00:09:20]: [Skin Announcement] Stetas feet_twotone_shoe_brown_sepia
+[00:09:44]: [Say] (KU_NHBLlzTg) Stetas: ?
+[00:09:49]: [Say] (KU_NHBLlzTg) Stetas: my
+[00:09:59]: [Say] (KU_NHBLlzTg) Stetas: light ball
+[00:10:22]: [Say] (KU_NHBLlzMm) SHFLTE: I logged in just to verify that
+[00:10:28]: [Whisper] (KU_NHBLlzMm) SHFLTE: I can log into my server
+[00:10:31]: [Say] (KU_NHBLlzMm) SHFLTE: 靠腰喔
+[00:10:37]: [Say] (KU_NHBLlzMm) SHFLTE: 可以打中ㄓㄨㄣˊ
+[00:10:40]: [Say] (KU_NHBLlzMm) SHFLTE: 打英文幹嘛
+[00:10:42]: [Say] (KU_NHBLlzTg) Stetas: 你進來了阿
+[00:10:47]: [Say] (KU_NHBLlzMm) SHFLTE: 對啊
+[00:10:49]: [Say] (KU_NHBLlzMm) SHFLTE: 好讚
+[00:10:52]: [Say] (KU_NHBLlzMm) SHFLTE: 電腦重開就好
+[00:10:54]: [Say] (KU_NHBLlzTg) Stetas: 剛剛切不過來
+[00:10:58]: [Say] (KU_NHBLlzMm) SHFLTE: 如果伺服器再來壞掉
+[00:11:00]: [Say] (KU_NHBLlzTg) Stetas: DC?
+[00:11:01]: [Say] (KU_NHBLlzMm) SHFLTE: 在壞掉
+[00:11:05]: [Say] (KU_NHBLlzMm) SHFLTE: 真的會心累
+[00:11:08]: [Say] (KU_NHBLlzMm) SHFLTE: 今天應該否
+[00:11:13]: [Say] (KU_NHBLlzTg) Stetas: 喔
+[00:11:14]: [Say] (KU_NHBLlzMm) SHFLTE: 走時物嗎
+[00:11:16]: [Say] (KU_NHBLlzMm) SHFLTE: 走
+[00:11:20]: [Say] (KU_NHBLlzMm) SHFLTE: 快餓死
+[00:11:26]: [Say] (KU_NHBLlzTg) Stetas: su31
+[00:11:31]: [Say] (KU_NHBLlzMm) SHFLTE: 13/200
+[00:11:37]: [Say] (KU_NHBLlzMm) SHFLTE: ㄓㄢ
+[00:11:37]: [Say] (KU_NHBLlzTg) Stetas: 你不用DC 喔為啥
+[00:11:43]: [Say] (KU_NHBLlzMm) SHFLTE: 我今踢沒屹丸
+[00:11:51]: [Say] (KU_NHBLlzMm) SHFLTE: 等等跟吳亭萱看電影
+[00:12:06]: [Say] (KU_NHBLlzMm) SHFLTE: 吃的給一下
+[00:12:10]: [Say] (KU_NHBLlzMm) SHFLTE: 快餓死了
+[00:12:13]: [Say] (KU_NHBLlzMm) SHFLTE: 要扣血了
+[00:12:34]: [Say] (KU_NHBLlzTg) Stetas: 在家看喔
+[00:12:45]: [Say] (KU_NHBLlzMm) SHFLTE: 恩
+[00:12:52]: [Say] (KU_NHBLlzTg) Stetas: 嫩
+[00:12:52]: [Say] (KU_NHBLlzMm) SHFLTE: nice
+[00:13:05]: [Leave Announcement] SHFLTE
+[00:17:38]: [Leave Announcement] Stetas

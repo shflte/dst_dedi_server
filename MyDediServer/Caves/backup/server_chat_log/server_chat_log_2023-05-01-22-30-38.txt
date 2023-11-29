@@ -1,0 +1,71 @@
+[00:01:11]: [Join Announcement] SHFLTE
+[00:08:14]: [Vote Announcement] rollback passed
+[00:09:05]: [Leave Announcement] SHFLTE
+[17:38:44]: [Join Announcement] SHFLTE
+[17:49:52]: [Leave Announcement] SHFLTE
+[18:00:21]: [Join Announcement] lalaben
+[18:07:12]: [Leave Announcement] lalaben
+[18:35:57]: [Join Announcement] SHFLTE
+[18:41:06]: [Join Announcement] Stetas
+[18:43:14]: [Join Announcement] lalaben
+[18:46:12]: [Death Announcement] lalaben was killed by Tallbird. He became a spooky ghost!
+[18:48:26]: [Resurrect Announcement] lalaben was resurrected by Endothermic Fire Pit.
+[19:07:09]: [Skin Announcement] SHFLTE body_tshirt_grey_battleship
+[19:07:10]: [Skin Announcement] Stetas legs_pants_basic_brown_sepia
+[19:25:15]: [Leave Announcement] SHFLTE
+[19:33:14]: [Join Announcement] SHFLTE
+[19:39:55]: [Death Announcement] lalaben was killed by Starvation. He became a spooky ghost!
+[19:40:24]: [Resurrect Announcement] lalaben was resurrected by Campfire.
+[19:49:34]: [Death Announcement] lalaben was killed by Starvation. He became a spooky ghost!
+[19:53:00]: [Resurrect Announcement] lalaben was resurrected by Campfire.
+[19:56:39]: [Death Announcement] lalaben was killed by Depths Worm. He became a spooky ghost!
+[19:57:36]: [Resurrect Announcement] lalaben was resurrected by Fire Pit.
+[20:01:18]: [Death Announcement] lalaben was killed by Depths Worm. He became a spooky ghost!
+[20:01:36]: [Resurrect Announcement] lalaben was resurrected by Fire Pit.
+[20:01:51]: [Death Announcement] lalaben was killed by Darkness. He became a spooky ghost!
+[20:02:17]: [Resurrect Announcement] lalaben was resurrected by Fire Pit.
+[20:02:30]: [Death Announcement] lalaben was killed by Darkness. He became a spooky ghost!
+[20:06:33]: [Resurrect Announcement] lalaben was resurrected by Fire Pit.
+[20:07:22]: [Death Announcement] lalaben was killed by Nightmarebeak. He became a spooky ghost!
+[20:07:36]: [Resurrect Announcement] lalaben was resurrected by Fire Pit.
+[20:08:31]: [Death Announcement] lalaben was killed by Depths Worm. He became a spooky ghost!
+[20:09:16]: [Resurrect Announcement] lalaben was resurrected by Fire Pit.
+[20:20:21]: [Death Announcement] SHFLTE was killed by Splumonkey. She became a spooky ghost!
+[20:20:51]: [Resurrect Announcement] SHFLTE was resurrected by Fire Pit.
+[20:21:04]: [Death Announcement] SHFLTE was killed by Darkness. She became a spooky ghost!
+[20:21:28]: [Leave Announcement] SHFLTE
+[20:22:13]: [Death Announcement] lalaben was killed by Crawling Horror. He became a spooky ghost!
+[20:22:15]: [Resurrect Announcement] lalaben was resurrected by Fire Pit.
+[20:22:24]: [Join Announcement] SHFLTE
+[20:22:39]: [Resurrect Announcement] SHFLTE was resurrected by Fire Pit.
+[20:22:54]: [Death Announcement] SHFLTE was killed by Darkness. She became a spooky ghost!
+[20:22:58]: [Leave Announcement] SHFLTE
+[20:23:37]: [Join Announcement] SHFLTE
+[20:23:56]: [Resurrect Announcement] SHFLTE was resurrected by Fire Pit.
+[20:25:30]: [Death Announcement] SHFLTE was killed by Depths Worm. She became a spooky ghost!
+[20:26:43]: [Roll Announcement] (KU_NHBLlzMm) SHFLTE 26 (1-100)
+[20:31:58]: [Resurrect Announcement] SHFLTE was resurrected by Fire Pit.
+[20:31:58]: [Join Announcement] ORca
+[20:32:11]: [Death Announcement] SHFLTE was killed by Darkness. She became a spooky ghost!
+[20:32:29]: [Resurrect Announcement] SHFLTE was resurrected by Fire Pit.
+[20:32:41]: [Death Announcement] SHFLTE was killed by Darkness. She became a spooky ghost!
+[20:41:17]: [Resurrect Announcement] SHFLTE was resurrected by Fire Pit.
+[20:43:15]: [Death Announcement] ORca was killed by Freezing. He became a spooky ghost!
+[20:43:48]: [Resurrect Announcement] ORca was resurrected by Fire Pit.
+[20:44:49]: [Death Announcement] SHFLTE was killed by Freezing. She became a spooky ghost!
+[20:45:13]: [Resurrect Announcement] SHFLTE was resurrected by Campfire.
+[20:46:35]: [Death Announcement] SHFLTE was killed by Freezing. She became a spooky ghost!
+[20:46:40]: [Resurrect Announcement] SHFLTE was resurrected by Campfire.
+[20:48:56]: [Death Announcement] SHFLTE was killed by Freezing. She became a spooky ghost!
+[20:49:09]: [Resurrect Announcement] SHFLTE was resurrected by Campfire.
+[20:55:00]: [Death Announcement] ORca was killed by Darkness. He became a spooky ghost!
+[20:55:59]: [Resurrect Announcement] ORca was resurrected by Fire Pit.
+[21:03:17]: [Skin Announcement] SHFLTE walterhat_ice
+[21:04:54]: [Death Announcement] lalaben was killed by Tallbird. He became a spooky ghost!
+[21:05:03]: [Resurrect Announcement] lalaben was resurrected by Fire Pit.
+[21:05:49]: [Death Announcement] lalaben was killed by Tallbird. He became a spooky ghost!
+[21:05:57]: [Resurrect Announcement] lalaben was resurrected by Fire Pit.
+[21:06:23]: [Death Announcement] lalaben was killed by Tallbird. He became a spooky ghost!
+[21:06:33]: [Resurrect Announcement] lalaben was resurrected by Fire Pit.
+[21:12:45]: [Leave Announcement] ORca
+[21:12:51]: [Leave Announcement] SHFLTE

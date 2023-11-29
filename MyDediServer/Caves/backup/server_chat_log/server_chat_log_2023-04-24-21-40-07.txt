@@ -1,0 +1,6 @@
+[00:08:14]: [Join Announcement] SHFLTE
+[00:14:37]: [Join Announcement] Stetas
+[00:43:14]: [Join Announcement] 玩具
+[00:43:48]: [Death Announcement] 玩具 was killed by Freezing. She became a spooky ghost!
+[00:46:47]: [Resurrect Announcement] 玩具 was resurrected by Fire Pit.
+[00:47:28]: [Join Announcement] ORca

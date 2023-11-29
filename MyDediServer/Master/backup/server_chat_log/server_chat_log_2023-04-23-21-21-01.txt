@@ -1,0 +1,8 @@
+[00:00:53]: [Join Announcement] Stetas
+[00:24:49]: [Join Announcement] 玩具
+[00:54:39]: [Death Announcement] Stetas was killed by Batilisk. He became a spooky ghost!
+[00:56:17]: [Death Announcement] 玩具 was killed by Hound. She became a spooky ghost!
+[00:57:08]: [Resurrect Announcement] Stetas was resurrected by Fire Pit.
+[00:57:30]: [Resurrect Announcement] 玩具 was resurrected by Fire Pit.
+[00:59:19]: [Leave Announcement] 玩具
+[01:00:20]: [Leave Announcement] Stetas

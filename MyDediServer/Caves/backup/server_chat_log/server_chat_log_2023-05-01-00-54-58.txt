@@ -1,0 +1,17 @@
+[00:01:08]: [Join Announcement] SHFLTE
+[00:01:29]: [Leave Announcement] SHFLTE
+[00:04:31]: [Join Announcement] SHFLTE
+[00:12:10]: [Join Announcement] Stetas
+[00:39:36]: [Death Announcement] SHFLTE was killed by Overheating. She became a spooky ghost!
+[00:39:38]: [Resurrect Announcement] SHFLTE was resurrected by Fire Pit.
+[01:05:24]: [Skin Announcement] SHFLTE legs_skirt_basic_tan_cream
+[01:51:41]: [Vote Announcement] rollback passed
+[02:13:17]: [Skin Announcement] SHFLTE feet_winona_nature
+[02:35:17]: [Vote Announcement] rollback passed
+[02:39:39]: [Death Announcement] SHFLTE was killed by Bee Queen. She became a spooky ghost!
+[02:39:58]: [Death Announcement] Stetas was killed by Bee Queen. He became a spooky ghost!
+[02:40:00]: [Vote Announcement] rollback passed
+[02:42:14]: [Leave Announcement] Stetas
+[03:04:11]: [Leave Announcement] SHFLTE
+[04:14:15]: [Join Announcement] SHFLTE
+[04:15:43]: [Leave Announcement] SHFLTE

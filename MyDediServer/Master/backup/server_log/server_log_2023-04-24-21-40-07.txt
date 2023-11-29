@@ -1,0 +1,998 @@
+[00:00:00]: PersistRootStorage is now /home/shflte/.klei//DoNotStarveTogether/MyDediServer/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 551676
+[00:00:00]: Current time: Sun Apr 23 22:00:18 2023
+
+[00:00:00]: System Name: Linux
+[00:00:00]: Host Name: shlenovo
+[00:00:00]: Release(Kernel) Version: 5.15.0-58-generic
+[00:00:00]: Kernel Build Timestamp: #64-Ubuntu SMP Thu Jan 5 11:43:13 UTC 2023
+[00:00:00]: Machine Arch: x86_64
+[00:00:00]: Don't Starve Together: 551676 LINUX
+[00:00:00]: Build Date: 1745
+[00:00:00]: Mode: 64-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -console -cluster MyDediServer -monitor_parent_process 443388 -shard Master 
+[00:00:00]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
+[00:00:00]: Initializing distribution platform
+[00:00:00]: ....Done
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: THREAD - started 'GAClient' (140494199653952)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(11000, 27018)
+[00:00:00]: [Steam] SteamGameServer_Init success
+[00:00:00]: ProfileIndex:3.91
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Platform: 1
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: THREAD - started 'StreamInput' (140494077134400)
+[00:00:00]: OnLoadPermissionList: /home/shflte/.klei//DoNotStarveTogether/MyDediServer/blocklist.txt (Failure)
+[00:00:00]: OnLoadPermissionList: /home/shflte/.klei//DoNotStarveTogether/MyDediServer/adminlist.txt (Failure)
+[00:00:00]: OnLoadUserIdList: /home/shflte/.klei//DoNotStarveTogether/MyDediServer/whitelist.txt (Failure)
+[00:00:00]: Token retrieved from: /home/shflte/.klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
+[00:00:00]: Token retrieved from: /home/shflte/.klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:00]: GameSpecific initialize: Okay
+[00:00:00]: cGame::StartPlaying
+[00:00:00]: AppVersion::GetArchitecture() x64
+[00:00:00]: LOADING LUA
+[00:00:00]: DoLuaFile scripts/main.lua
+[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:00]:   taskgrouplist:	default	Together	
+[00:00:00]:   taskgrouplist:	classic	Classic	
+[00:00:00]:   taskgrouplist:	cave_default	Underground	
+[00:00:00]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:00]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:00]: Running main.lua
+	
+[00:00:00]: loaded modindex	
+[00:00:00]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:01]: [Workshop] Item query page 0, size: 15, total size: 15
+[00:00:01]: [Workshop] Item query queued IDs: 376333686 1378549454 569043634 378160973 466732225 501385076 767776640 1595631294 375859599 1185229307 356930882 1644882423 482843324 2905450407 2581394795
+[00:00:01]: [Workshop] Item query sent
+[00:00:02]: [Workshop] ItemQuery got this many results: 15, matching: 15
+[00:00:02]: [Workshop] ModQuery got 15 results
+[00:00:02]: [Workshop] ModQuery already have IDs: {1.9.1,376333686} {5.1.43,1378549454} {1.6.8.1,569043634} {1.7.4,378160973} {full 4,466732225} {1.4.0,501385076} {1.08,767776640} {1.1.5,1595631294} {2.2.03,375859599} {73,1185229307} {1.8,356930882} {0.34,1644882423} {1.1,482843324} {2.0,2905450407} {1.0.0,2581394795}
+[00:00:02]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:00:02]: [Workshop] ItemQuery finished downloading everything
+[00:00:02]: SUCCESS: Loaded modoverrides.lua	
+[00:00:02]: modoverrides.lua enabling workshop-376333686	
+[00:00:02]: modoverrides.lua enabling workshop-1378549454	
+[00:00:02]: modoverrides.lua enabling workshop-1644882423	
+[00:00:02]: modoverrides.lua enabling workshop-2905450407	
+[00:00:02]: modoverrides.lua enabling workshop-378160973	
+[00:00:02]: modoverrides.lua enabling workshop-356930882	
+[00:00:02]: modoverrides.lua enabling workshop-569043634	
+[00:00:02]: modoverrides.lua enabling workshop-482843324	
+[00:00:02]: modoverrides.lua enabling workshop-1595631294	
+[00:00:02]: modoverrides.lua enabling workshop-1185229307	
+[00:00:02]: modoverrides.lua enabling workshop-466732225	
+[00:00:02]: modoverrides.lua enabling workshop-501385076	
+[00:00:02]: modoverrides.lua enabling workshop-2581394795	
+[00:00:02]: modoverrides.lua enabling workshop-767776640	
+[00:00:02]: modoverrides.lua enabling workshop-375859599	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-767776640	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-482843324	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-356930882	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-501385076	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-376333686	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1378549454	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1644882423	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2905450407	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-569043634	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2581394795	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-375859599	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-767776640_CLIENT	
+[00:00:02]: Loading mod: workshop-767776640 (Repair Combine) Version:1.08	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-1595631294_CLIENT	
+[00:00:02]: Loading mod: workshop-1595631294 (Smart Minisign) Version:1.1.5	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-466732225_CLIENT	
+[00:00:02]: Loading mod: workshop-466732225 (No Thermal Stone Durability) Version:full 4	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-482843324_CLIENT	
+[00:00:02]: Loading mod: workshop-482843324 (Faster Tree Chopping) Version:1.1	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-356930882_CLIENT	
+[00:00:02]: Loading mod: workshop-356930882 (Infinite Tent (and Siesta) Uses ) Version:1.8	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-501385076_CLIENT	
+[00:00:02]: Loading mod: workshop-501385076 (Quick Pick) Version:1.4.0	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-376333686	
+[00:00:02]: Loading mod: workshop-376333686 (Combined Status) Version:1.9.1	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-1378549454_CLIENT	
+[00:00:02]: Loading mod: workshop-1378549454 ([API] Gem Core) Version:5.1.43	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-1644882423_CLIENT	
+[00:00:02]: Loading mod: workshop-1644882423 (Refillable Salt Lick) Version:0.34	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[00:00:02]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.4	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-2905450407	
+[00:00:02]: Loading mod: workshop-2905450407 (Extended Map Icons) Version:2.0	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-569043634_CLIENT	
+[00:00:02]: Loading mod: workshop-569043634 (Campfire Respawn) Version:1.6.8.1	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-1185229307_CLIENT	
+[00:00:02]: Loading mod: workshop-1185229307 (Epic Healthbar) Version:73	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-2581394795_CLIENT	
+[00:00:02]: Loading mod: workshop-2581394795 (Ultimate Extra Slots) Version:1.0.0	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-375859599_CLIENT	
+[00:00:02]: Loading mod: workshop-375859599 (Health Info) Version:2.2.03	
+[00:00:02]: Mod: workshop-1378549454 ([API] Gem Core)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-1378549454 ([API] Gem Core)	Loading modbackendmain.lua	
+[00:00:02]: modimport: ../mods/workshop-1378549454/gemscripts/gemrun	
+[00:00:02]: modimport: ../mods/workshop-1378549454/gemscripts/legacy_modbackendmain	
+[00:00:02]: Mod: workshop-1378549454 ([API] Gem Core)	Loading modmain.lua	
+[00:00:02]: modimport: ../mods/workshop-1378549454/gemscripts/legacy_modmain	
+[00:00:02]: Mod: workshop-1185229307 (Epic Healthbar)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-1185229307 (Epic Healthbar)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-1185229307 (Epic Healthbar)	Loading modbackendmain.lua	
+[00:00:02]: Mod: workshop-1185229307 (Epic Healthbar)	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-1185229307 (Epic Healthbar)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-2581394795 (Ultimate Extra Slots)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-2581394795 (Ultimate Extra Slots)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-2581394795 (Ultimate Extra Slots)	Loading modbackendmain.lua	
+[00:00:02]: Mod: workshop-2581394795 (Ultimate Extra Slots)	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-2581394795 (Ultimate Extra Slots)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-375859599 (Health Info)	Loading modbackendmain.lua	
+[00:00:02]: Mod: workshop-375859599 (Health Info)	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-375859599 (Health Info)	Loading modmain.lua	
+[00:00:02]: modimport: ../mods/workshop-375859599/black_white_lists.lua	
+[00:00:02]: Mod: workshop-767776640 (Repair Combine)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-767776640 (Repair Combine)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-767776640 (Repair Combine)	Loading modbackendmain.lua	
+[00:00:02]: Mod: workshop-767776640 (Repair Combine)	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-767776640 (Repair Combine)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-1644882423 (Refillable Salt Lick)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-1644882423 (Refillable Salt Lick)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-1644882423 (Refillable Salt Lick)	Loading modbackendmain.lua	
+[00:00:02]: Mod: workshop-1644882423 (Refillable Salt Lick)	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-1644882423 (Refillable Salt Lick)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-501385076 (Quick Pick)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-501385076 (Quick Pick)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-501385076 (Quick Pick)	Loading modbackendmain.lua	
+[00:00:02]: Mod: workshop-501385076 (Quick Pick)	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-501385076 (Quick Pick)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modbackendmain.lua	
+[00:00:02]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	Loading modbackendmain.lua	
+[00:00:02]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	Loading modmain.lua	
+[00:00:02]: Mod: workshop-482843324 (Faster Tree Chopping)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-482843324 (Faster Tree Chopping)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-482843324 (Faster Tree Chopping)	Loading modbackendmain.lua	
+[00:00:02]: Mod: workshop-482843324 (Faster Tree Chopping)	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-482843324 (Faster Tree Chopping)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-2905450407 (Extended Map Icons)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-2905450407 (Extended Map Icons)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-2905450407 (Extended Map Icons)	Loading modbackendmain.lua	
+[00:00:02]: Mod: workshop-2905450407 (Extended Map Icons)	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-2905450407 (Extended Map Icons)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-376333686 (Combined Status)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-376333686 (Combined Status)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-376333686 (Combined Status)	Loading modbackendmain.lua	
+[00:00:02]: Mod: workshop-376333686 (Combined Status)	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-376333686 (Combined Status)	Loading modmain.lua	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-767776640	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-482843324	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-356930882	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-501385076	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-376333686	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1378549454	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1644882423	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2905450407	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-569043634	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2581394795	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-375859599	
+[00:00:02]: Mod: workshop-569043634 (Campfire Respawn)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-569043634 (Campfire Respawn)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-569043634 (Campfire Respawn)	Loading modbackendmain.lua	
+[00:00:02]: Mod: workshop-569043634 (Campfire Respawn)	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-569043634 (Campfire Respawn)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-378160973 (Global Positions)	Loading modbackendmain.lua	
+[00:00:02]: Mod: workshop-378160973 (Global Positions)	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-767776640	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-482843324	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-356930882	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-501385076	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-376333686	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1378549454	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1644882423	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2905450407	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-569043634	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2581394795	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-375859599	
+[00:00:02]: Mod: workshop-1595631294 (Smart Minisign)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-1595631294 (Smart Minisign)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-1595631294 (Smart Minisign)	Loading modbackendmain.lua	
+[00:00:02]: Mod: workshop-1595631294 (Smart Minisign)	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-1595631294 (Smart Minisign)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-1378549454 ([API] Gem Core)	Loading modmainpostinit.lua	
+[00:00:02]: Mod: workshop-1185229307 (Epic Healthbar)	Loading modmainpostinit.lua	
+[00:00:02]: Mod: workshop-1185229307 (Epic Healthbar)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:02]: Mod: workshop-2581394795 (Ultimate Extra Slots)	Loading modmainpostinit.lua	
+[00:00:02]: Mod: workshop-2581394795 (Ultimate Extra Slots)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:02]: Mod: workshop-375859599 (Health Info)	Loading modmainpostinit.lua	
+[00:00:02]: Mod: workshop-375859599 (Health Info)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:02]: Mod: workshop-767776640 (Repair Combine)	Loading modmainpostinit.lua	
+[00:00:02]: Mod: workshop-767776640 (Repair Combine)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:02]: Mod: workshop-1644882423 (Refillable Salt Lick)	Loading modmainpostinit.lua	
+[00:00:02]: Mod: workshop-1644882423 (Refillable Salt Lick)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:02]: Mod: workshop-501385076 (Quick Pick)	Loading modmainpostinit.lua	
+[00:00:02]: Mod: workshop-501385076 (Quick Pick)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:02]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modmainpostinit.lua	
+[00:00:02]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:02]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	Loading modmainpostinit.lua	
+[00:00:02]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:02]: Mod: workshop-482843324 (Faster Tree Chopping)	Loading modmainpostinit.lua	
+[00:00:02]: Mod: workshop-482843324 (Faster Tree Chopping)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:02]: Mod: workshop-2905450407 (Extended Map Icons)	Loading modmainpostinit.lua	
+[00:00:02]: Mod: workshop-2905450407 (Extended Map Icons)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:02]: Mod: workshop-376333686 (Combined Status)	Loading modmainpostinit.lua	
+[00:00:02]: Mod: workshop-376333686 (Combined Status)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:02]: Mod: workshop-569043634 (Campfire Respawn)	Loading modmainpostinit.lua	
+[00:00:02]: Mod: workshop-569043634 (Campfire Respawn)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:02]: Mod: workshop-378160973 (Global Positions)	Loading modmainpostinit.lua	
+[00:00:02]: Mod: workshop-378160973 (Global Positions)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:02]: Mod: workshop-1595631294 (Smart Minisign)	Loading modmainpostinit.lua	
+[00:00:02]: Mod: workshop-1595631294 (Smart Minisign)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:02]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:03]: LOADING LUA SUCCESS
+[00:00:03]: Registering Server mod namespace "workshop-378160973"
+[00:00:03]: Registering Server mod namespace "gemcore"
+[00:00:03]: Registering Shard mod namespace "gemcore"
+[00:00:03]: PlayerDeaths could not load morgue	
+[00:00:03]: PlayerHistory could not load player_history	
+[00:00:03]: ServerPreferences could not load server_preferences	
+[00:00:03]: ConsoleScreenSettings could not load consolescreen	
+[00:00:03]: bloom_enabled	true	
+[00:00:03]: OnFilesLoaded()	
+[00:00:03]: OnUpdatePurchaseStateComplete	
+[00:00:03]: Klump load on boot started.	
+[00:00:03]: Klump files loaded: 	0	
+[00:00:04]: Mod: workshop-1378549454 ([API] Gem Core)	Registering prefabs	
+[00:00:04]: Mod: workshop-1378549454 ([API] Gem Core)	  Registering default mod prefab	
+[00:00:04]: Mod: workshop-1185229307 (Epic Healthbar)	Registering prefabs	
+[00:00:04]: Mod: workshop-1185229307 (Epic Healthbar)	  Registering prefab file: prefabs/epichealth_proxy	
+[00:00:04]: Mod: workshop-1185229307 (Epic Healthbar)	    epichealth_proxy	
+[00:00:04]: Mod: workshop-1185229307 (Epic Healthbar)	  Registering default mod prefab	
+[00:00:04]: Mod: workshop-2581394795 (Ultimate Extra Slots)	Registering prefabs	
+[00:00:04]: Mod: workshop-2581394795 (Ultimate Extra Slots)	  Registering default mod prefab	
+[00:00:04]: Mod: workshop-375859599 (Health Info)	Registering prefabs	
+[00:00:04]: Mod: workshop-375859599 (Health Info)	  Registering default mod prefab	
+[00:00:04]: Mod: workshop-767776640 (Repair Combine)	Registering prefabs	
+[00:00:04]: Mod: workshop-767776640 (Repair Combine)	  Registering default mod prefab	
+[00:00:04]: Mod: workshop-1644882423 (Refillable Salt Lick)	Registering prefabs	
+[00:00:04]: Mod: workshop-1644882423 (Refillable Salt Lick)	  Registering default mod prefab	
+[00:00:04]: Mod: workshop-501385076 (Quick Pick)	Registering prefabs	
+[00:00:04]: Mod: workshop-501385076 (Quick Pick)	  Registering default mod prefab	
+[00:00:04]: Mod: workshop-466732225 (No Thermal Stone Durability)	Registering prefabs	
+[00:00:04]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Registering default mod prefab	
+[00:00:04]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	Registering prefabs	
+[00:00:04]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	  Registering default mod prefab	
+[00:00:04]: Mod: workshop-482843324 (Faster Tree Chopping)	Registering prefabs	
+[00:00:04]: Mod: workshop-482843324 (Faster Tree Chopping)	  Registering default mod prefab	
+[00:00:04]: Mod: workshop-2905450407 (Extended Map Icons)	Registering prefabs	
+[00:00:04]: Mod: workshop-2905450407 (Extended Map Icons)	  Registering prefab file: prefabs/mapiconhelper	
+[00:00:04]: Mod: workshop-2905450407 (Extended Map Icons)	    mapiconhelper	
+[00:00:04]: Mod: workshop-2905450407 (Extended Map Icons)	  Registering default mod prefab	
+[00:00:04]: Mod: workshop-376333686 (Combined Status)	Registering prefabs	
+[00:00:04]: Mod: workshop-376333686 (Combined Status)	  Registering default mod prefab	
+[00:00:04]: Mod: workshop-569043634 (Campfire Respawn)	Registering prefabs	
+[00:00:04]: Mod: workshop-569043634 (Campfire Respawn)	  Registering default mod prefab	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:04]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:04]: Mod: workshop-1595631294 (Smart Minisign)	Registering prefabs	
+[00:00:04]: Mod: workshop-1595631294 (Smart Minisign)	  Registering default mod prefab	
+[00:00:04]: 	Load FE	
+[00:00:05]: THREAD - started 'FilesExistAsyncThread' (140494064535104)
+[00:00:05]: FilesExistAsyncThread started (21679 files)...
+[00:00:05]: 	Load FE: done	
+[00:00:05]: Check for write access: TRUE
+[00:00:05]: Check for read access: TRUE
+[00:00:05]: Available disk space for save files: 54264 MB
+[00:00:05]: ModIndex: Load sequence finished successfully.	
+[00:00:05]: Reset() returning
+[00:00:05]: ... FilesExistAsyncThread complete
+[00:00:05]: [200] Account Communication Success (6)
+[00:00:05]: Cached userid (null) saved to /home/shflte/.klei//DoNotStarveTogether/MyDediServer/Master/save/cached_userid
+[00:00:05]: Received (KU_NHBLlzMm) from TokenPurpose
+[00:00:05]: Starting Dedicated Server Game	
+[00:00:05]: Network tick rate: U=15(2), D=0
+[00:00:05]: About to start a server with the following settings:
+[00:00:05]:   Dedicated: true
+[00:00:05]:   Online: true
+[00:00:05]:   Passworded: true
+[00:00:05]:   ServerPort: 11000
+[00:00:05]:   SteamAuthPort: 8768
+[00:00:05]:   SteamMasterServerPort: 27018
+[00:00:05]:   ClanID: false
+[00:00:05]:   ClanOnly: false
+[00:00:05]:   ClanAdmin: false
+[00:00:05]:   LanOnly: false
+[00:00:05]:   FriendsOnly: false
+[00:00:05]:   EnableAutosaver: true
+[00:00:05]:   EncodeUserPath: true
+[00:00:05]:   PVP: false
+[00:00:05]:   MaxPlayers: 8
+[00:00:05]:   GameMode: endless
+[00:00:05]:   OverridenDNS: 
+[00:00:05]:   PauseWhenEmpty: true
+[00:00:05]:   IdleTimeout: 1800s
+[00:00:05]:   VoteEnabled: true
+[00:00:05]:   InternetBroadcasting: true
+[00:00:05]: SUCCESS: Loaded modoverrides.lua	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1378549454	
+[00:00:05]: SUCCESS: Loaded modoverrides.lua	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:05]: SUCCESS: Loaded modoverrides.lua	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-482843324	
+[00:00:05]: SUCCESS: Loaded modoverrides.lua	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1595631294	
+[00:00:05]: SUCCESS: Loaded modoverrides.lua	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-2581394795	
+[00:00:05]: SUCCESS: Loaded modoverrides.lua	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1185229307	
+[00:00:05]: SUCCESS: Loaded modoverrides.lua	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-569043634	
+[00:00:05]: SUCCESS: Loaded modoverrides.lua	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-767776640	
+[00:00:05]: SUCCESS: Loaded modoverrides.lua	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-375859599	
+[00:00:05]: Online Server Started on port: 11000
+[00:00:05]: SUCCESS: Loaded modoverrides.lua	
+[00:00:05]: Not applying level data overrides.	
+[00:00:05]: Found a worldgen override file with these contents:	
+[00:00:05]: 	K: 	override_enabled	 V: 	true	
+[00:00:05]: 	K: 	overrides	 V: 	table: 0xbd6b4b0	
+[00:00:05]: 		K: 	beefaloheat	 V: 	rare	
+[00:00:05]: 		K: 	berrybush	 V: 	often	
+[00:00:05]: 		K: 	carrot	 V: 	often	
+[00:00:05]: 		K: 	carrots_regrowth	 V: 	fast	
+[00:00:05]: 		K: 	flint	 V: 	often	
+[00:00:05]: 		K: 	frograin	 V: 	rare	
+[00:00:05]: 		K: 	grass	 V: 	often	
+[00:00:05]: 		K: 	regrowth	 V: 	fast	
+[00:00:05]: 		K: 	rock	 V: 	often	
+[00:00:05]: 		K: 	sapling	 V: 	often	
+[00:00:05]: 		K: 	weather	 V: 	rare	
+[00:00:05]: 		K: 	wildfires	 V: 	rare	
+[00:00:05]: 		K: 	world_size	 V: 	huge	
+[00:00:05]: 		K: 	worldseed	 V: 	1622020197	
+[00:00:05]: 	K: 	settings_preset	 V: 	SURVIVAL_TOGETHER	
+[00:00:05]: 	K: 	worldgen_preset	 V: 	SURVIVAL_TOGETHER	
+[00:00:05]:   sanity-checking worldgenoverride.lua...	
+[00:00:05]:     WARNING! Found value '1622020197' for setting 'worldseed', but this is not a valid value. Use one of {}.	
+[00:00:05]: Loaded and applied world gen overrides from ../worldgenoverride.lua	
+[00:00:05]:   contained worldgen preset SURVIVAL_TOGETHER, loading...	
+[00:00:05]:   contained settings preset SURVIVAL_TOGETHER, loading...	
+[00:00:05]: Overwriting savedata with override file.	
+[00:00:05]: Collecting garbage...
+[00:00:06]: lua_gc took 0.09 seconds
+[00:00:06]: ~ShardLuaProxy()
+[00:00:06]: ~cEventLeaderboardProxy()
+[00:00:06]: ~ItemServerLuaProxy()
+[00:00:06]: ~InventoryLuaProxy()
+[00:00:06]: ~NetworkLuaProxy()
+[00:00:06]: ~SimLuaProxy()
+[00:00:06]: lua_close took 0.11 seconds
+[00:00:06]: ReleaseAll
+[00:00:06]: ReleaseAll Finished
+[00:00:06]: cGame::StartPlaying
+[00:00:06]: AppVersion::GetArchitecture() x64
+[00:00:06]: LOADING LUA
+[00:00:06]: DoLuaFile scripts/main.lua
+[00:00:06]: DoLuaFile loading buffer scripts/main.lua
+[00:00:06]:   taskgrouplist:	default	Together	
+[00:00:06]:   taskgrouplist:	classic	Classic	
+[00:00:06]:   taskgrouplist:	cave_default	Underground	
+[00:00:06]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:06]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:06]: Running main.lua
+	
+[00:00:06]: loaded modindex	
+[00:00:06]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:06]: SUCCESS: Loaded modoverrides.lua	
+[00:00:06]: modoverrides.lua enabling workshop-376333686	
+[00:00:06]: modoverrides.lua enabling workshop-1378549454	
+[00:00:06]: modoverrides.lua enabling workshop-1644882423	
+[00:00:06]: modoverrides.lua enabling workshop-2905450407	
+[00:00:06]: modoverrides.lua enabling workshop-378160973	
+[00:00:06]: modoverrides.lua enabling workshop-356930882	
+[00:00:06]: modoverrides.lua enabling workshop-569043634	
+[00:00:06]: modoverrides.lua enabling workshop-482843324	
+[00:00:06]: modoverrides.lua enabling workshop-1595631294	
+[00:00:06]: modoverrides.lua enabling workshop-1185229307	
+[00:00:06]: modoverrides.lua enabling workshop-466732225	
+[00:00:06]: modoverrides.lua enabling workshop-501385076	
+[00:00:06]: modoverrides.lua enabling workshop-2581394795	
+[00:00:06]: modoverrides.lua enabling workshop-767776640	
+[00:00:06]: modoverrides.lua enabling workshop-375859599	
+[00:00:06]: ModIndex:GetModsToLoad inserting moddir, 	workshop-767776640	
+[00:00:06]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:00:06]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:06]: ModIndex:GetModsToLoad inserting moddir, 	workshop-482843324	
+[00:00:06]: ModIndex:GetModsToLoad inserting moddir, 	workshop-356930882	
+[00:00:06]: ModIndex:GetModsToLoad inserting moddir, 	workshop-501385076	
+[00:00:06]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-376333686	
+[00:00:06]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1378549454	
+[00:00:06]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1644882423	
+[00:00:06]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:06]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2905450407	
+[00:00:06]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-569043634	
+[00:00:06]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:06]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2581394795	
+[00:00:06]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-375859599	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-767776640	
+[00:00:06]: Loading mod: workshop-767776640 (Repair Combine) Version:1.08	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-1595631294	
+[00:00:06]: Loading mod: workshop-1595631294 (Smart Minisign) Version:1.1.5	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-466732225	
+[00:00:06]: Loading mod: workshop-466732225 (No Thermal Stone Durability) Version:full 4	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-482843324	
+[00:00:06]: Loading mod: workshop-482843324 (Faster Tree Chopping) Version:1.1	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-356930882	
+[00:00:06]: Loading mod: workshop-356930882 (Infinite Tent (and Siesta) Uses ) Version:1.8	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-501385076	
+[00:00:06]: Loading mod: workshop-501385076 (Quick Pick) Version:1.4.0	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-376333686	
+[00:00:06]: Loading mod: workshop-376333686 (Combined Status) Version:1.9.1	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-1378549454	
+[00:00:06]: Loading mod: workshop-1378549454 ([API] Gem Core) Version:5.1.43	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-1644882423	
+[00:00:06]: Loading mod: workshop-1644882423 (Refillable Salt Lick) Version:0.34	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:06]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.4	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-2905450407	
+[00:00:06]: Loading mod: workshop-2905450407 (Extended Map Icons) Version:2.0	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-569043634	
+[00:00:06]: Loading mod: workshop-569043634 (Campfire Respawn) Version:1.6.8.1	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-1185229307	
+[00:00:06]: Loading mod: workshop-1185229307 (Epic Healthbar) Version:73	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-2581394795	
+[00:00:06]: Loading mod: workshop-2581394795 (Ultimate Extra Slots) Version:1.0.0	
+[00:00:06]: Could not load mod_config_data/modconfiguration_workshop-375859599	
+[00:00:06]: Loading mod: workshop-375859599 (Health Info) Version:2.2.03	
+[00:00:06]: Mod: workshop-1378549454 ([API] Gem Core)	Loading modworldgenmain.lua	
+[00:00:06]: Mod: workshop-1378549454 ([API] Gem Core)	Loading modbackendmain.lua	
+[00:00:06]: modimport: ../mods/workshop-1378549454/gemscripts/gemrun	
+[00:00:06]: modimport: ../mods/workshop-1378549454/gemscripts/legacy_modbackendmain	
+[00:00:06]: Mod: workshop-1378549454 ([API] Gem Core)	Loading modmain.lua	
+[00:00:06]: modimport: ../mods/workshop-1378549454/gemscripts/legacy_modmain	
+[00:00:06]: Mod: workshop-1185229307 (Epic Healthbar)	Loading modworldgenmain.lua	
+[00:00:06]: Mod: workshop-1185229307 (Epic Healthbar)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:06]: Mod: workshop-1185229307 (Epic Healthbar)	Loading modbackendmain.lua	
+[00:00:06]: Mod: workshop-1185229307 (Epic Healthbar)	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:06]: Mod: workshop-1185229307 (Epic Healthbar)	Loading modmain.lua	
+[00:00:06]: Mod: workshop-2581394795 (Ultimate Extra Slots)	Loading modworldgenmain.lua	
+[00:00:06]: Mod: workshop-2581394795 (Ultimate Extra Slots)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:06]: Mod: workshop-2581394795 (Ultimate Extra Slots)	Loading modbackendmain.lua	
+[00:00:06]: Mod: workshop-2581394795 (Ultimate Extra Slots)	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:06]: Mod: workshop-2581394795 (Ultimate Extra Slots)	Loading modmain.lua	
+[00:00:06]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:00:06]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:06]: Mod: workshop-375859599 (Health Info)	Loading modbackendmain.lua	
+[00:00:06]: Mod: workshop-375859599 (Health Info)	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:06]: Mod: workshop-375859599 (Health Info)	Loading modmain.lua	
+[00:00:06]: modimport: ../mods/workshop-375859599/black_white_lists.lua	
+[00:00:06]: Mod: workshop-767776640 (Repair Combine)	Loading modworldgenmain.lua	
+[00:00:06]: Mod: workshop-767776640 (Repair Combine)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:06]: Mod: workshop-767776640 (Repair Combine)	Loading modbackendmain.lua	
+[00:00:06]: Mod: workshop-767776640 (Repair Combine)	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:06]: Mod: workshop-767776640 (Repair Combine)	Loading modmain.lua	
+[00:00:06]: Mod: workshop-1644882423 (Refillable Salt Lick)	Loading modworldgenmain.lua	
+[00:00:06]: Mod: workshop-1644882423 (Refillable Salt Lick)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:06]: Mod: workshop-1644882423 (Refillable Salt Lick)	Loading modbackendmain.lua	
+[00:00:06]: Mod: workshop-1644882423 (Refillable Salt Lick)	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:06]: Mod: workshop-1644882423 (Refillable Salt Lick)	Loading modmain.lua	
+[00:00:06]: Mod: workshop-501385076 (Quick Pick)	Loading modworldgenmain.lua	
+[00:00:06]: Mod: workshop-501385076 (Quick Pick)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:06]: Mod: workshop-501385076 (Quick Pick)	Loading modbackendmain.lua	
+[00:00:06]: Mod: workshop-501385076 (Quick Pick)	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:06]: Mod: workshop-501385076 (Quick Pick)	Loading modmain.lua	
+[00:00:06]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modworldgenmain.lua	
+[00:00:06]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:06]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modbackendmain.lua	
+[00:00:06]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:06]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modmain.lua	
+[00:00:06]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	Loading modworldgenmain.lua	
+[00:00:06]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:06]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	Loading modbackendmain.lua	
+[00:00:06]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:06]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	Loading modmain.lua	
+[00:00:06]: Mod: workshop-482843324 (Faster Tree Chopping)	Loading modworldgenmain.lua	
+[00:00:06]: Mod: workshop-482843324 (Faster Tree Chopping)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:06]: Mod: workshop-482843324 (Faster Tree Chopping)	Loading modbackendmain.lua	
+[00:00:06]: Mod: workshop-482843324 (Faster Tree Chopping)	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:06]: Mod: workshop-482843324 (Faster Tree Chopping)	Loading modmain.lua	
+[00:00:06]: Mod: workshop-2905450407 (Extended Map Icons)	Loading modworldgenmain.lua	
+[00:00:06]: Mod: workshop-2905450407 (Extended Map Icons)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:06]: Mod: workshop-2905450407 (Extended Map Icons)	Loading modbackendmain.lua	
+[00:00:06]: Mod: workshop-2905450407 (Extended Map Icons)	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:06]: Mod: workshop-2905450407 (Extended Map Icons)	Loading modmain.lua	
+[00:00:06]: Mod: workshop-376333686 (Combined Status)	Loading modworldgenmain.lua	
+[00:00:06]: Mod: workshop-376333686 (Combined Status)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:06]: Mod: workshop-376333686 (Combined Status)	Loading modbackendmain.lua	
+[00:00:06]: Mod: workshop-376333686 (Combined Status)	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:06]: Mod: workshop-376333686 (Combined Status)	Loading modmain.lua	
+[00:00:06]: ModIndex:GetModsToLoad inserting moddir, 	workshop-767776640	
+[00:00:06]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:00:06]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:06]: ModIndex:GetModsToLoad inserting moddir, 	workshop-482843324	
+[00:00:06]: ModIndex:GetModsToLoad inserting moddir, 	workshop-356930882	
+[00:00:06]: ModIndex:GetModsToLoad inserting moddir, 	workshop-501385076	
+[00:00:06]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-376333686	
+[00:00:06]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1378549454	
+[00:00:06]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1644882423	
+[00:00:06]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:06]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2905450407	
+[00:00:06]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-569043634	
+[00:00:06]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:06]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2581394795	
+[00:00:06]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-375859599	
+[00:00:06]: Mod: workshop-569043634 (Campfire Respawn)	Loading modworldgenmain.lua	
+[00:00:06]: Mod: workshop-569043634 (Campfire Respawn)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:06]: Mod: workshop-569043634 (Campfire Respawn)	Loading modbackendmain.lua	
+[00:00:06]: Mod: workshop-569043634 (Campfire Respawn)	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:06]: Mod: workshop-569043634 (Campfire Respawn)	Loading modmain.lua	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	Loading modbackendmain.lua	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:06]: ModIndex:GetModsToLoad inserting moddir, 	workshop-767776640	
+[00:00:06]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:00:06]: ModIndex:GetModsToLoad inserting moddir, 	workshop-466732225	
+[00:00:06]: ModIndex:GetModsToLoad inserting moddir, 	workshop-482843324	
+[00:00:06]: ModIndex:GetModsToLoad inserting moddir, 	workshop-356930882	
+[00:00:06]: ModIndex:GetModsToLoad inserting moddir, 	workshop-501385076	
+[00:00:06]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-376333686	
+[00:00:06]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1378549454	
+[00:00:06]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1644882423	
+[00:00:06]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:06]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2905450407	
+[00:00:06]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-569043634	
+[00:00:06]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1185229307	
+[00:00:06]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2581394795	
+[00:00:06]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-375859599	
+[00:00:06]: Mod: workshop-1595631294 (Smart Minisign)	Loading modworldgenmain.lua	
+[00:00:06]: Mod: workshop-1595631294 (Smart Minisign)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:06]: Mod: workshop-1595631294 (Smart Minisign)	Loading modbackendmain.lua	
+[00:00:06]: Mod: workshop-1595631294 (Smart Minisign)	  Mod had no modbackendmain.lua. Skipping.	
+[00:00:06]: Mod: workshop-1595631294 (Smart Minisign)	Loading modmain.lua	
+[00:00:06]: Mod: workshop-1378549454 ([API] Gem Core)	Loading modmainpostinit.lua	
+[00:00:06]: Mod: workshop-1185229307 (Epic Healthbar)	Loading modmainpostinit.lua	
+[00:00:06]: Mod: workshop-1185229307 (Epic Healthbar)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:06]: Mod: workshop-2581394795 (Ultimate Extra Slots)	Loading modmainpostinit.lua	
+[00:00:06]: Mod: workshop-2581394795 (Ultimate Extra Slots)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:06]: Mod: workshop-375859599 (Health Info)	Loading modmainpostinit.lua	
+[00:00:06]: Mod: workshop-375859599 (Health Info)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:06]: Mod: workshop-767776640 (Repair Combine)	Loading modmainpostinit.lua	
+[00:00:06]: Mod: workshop-767776640 (Repair Combine)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:06]: Mod: workshop-1644882423 (Refillable Salt Lick)	Loading modmainpostinit.lua	
+[00:00:06]: Mod: workshop-1644882423 (Refillable Salt Lick)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:06]: Mod: workshop-501385076 (Quick Pick)	Loading modmainpostinit.lua	
+[00:00:06]: Mod: workshop-501385076 (Quick Pick)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:06]: Mod: workshop-466732225 (No Thermal Stone Durability)	Loading modmainpostinit.lua	
+[00:00:06]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:06]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	Loading modmainpostinit.lua	
+[00:00:06]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:06]: Mod: workshop-482843324 (Faster Tree Chopping)	Loading modmainpostinit.lua	
+[00:00:06]: Mod: workshop-482843324 (Faster Tree Chopping)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:06]: Mod: workshop-2905450407 (Extended Map Icons)	Loading modmainpostinit.lua	
+[00:00:06]: Mod: workshop-2905450407 (Extended Map Icons)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:06]: Mod: workshop-376333686 (Combined Status)	Loading modmainpostinit.lua	
+[00:00:06]: Mod: workshop-376333686 (Combined Status)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:06]: Mod: workshop-569043634 (Campfire Respawn)	Loading modmainpostinit.lua	
+[00:00:06]: Mod: workshop-569043634 (Campfire Respawn)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	Loading modmainpostinit.lua	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:06]: Mod: workshop-1595631294 (Smart Minisign)	Loading modmainpostinit.lua	
+[00:00:06]: Mod: workshop-1595631294 (Smart Minisign)	  Mod had no modmainpostinit.lua. Skipping.	
+[00:00:07]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:07]: LOADING LUA SUCCESS
+[00:00:07]: Registering Server mod namespace "workshop-378160973"
+[00:00:07]: Registering Server mod namespace "gemcore"
+[00:00:07]: Registering Shard mod namespace "gemcore"
+[00:00:07]: PlayerDeaths could not load morgue	
+[00:00:07]: PlayerHistory could not load player_history	
+[00:00:07]: ServerPreferences could not load server_preferences	
+[00:00:07]: ConsoleScreenSettings could not load consolescreen	
+[00:00:07]: bloom_enabled	true	
+[00:00:07]: OnFilesLoaded()	
+[00:00:07]: OnUpdatePurchaseStateComplete	
+[00:00:07]: Loading world: session/54D57FABF0163001/0000000024	
+[00:00:07]: Save file is at version 5.141	
+[00:00:07]: Klump load on boot started.	
+[00:00:07]: Klump files loaded: 	0	
+[00:00:07]: 	Unload FE	
+[00:00:07]: 	Unload FE done	
+[00:00:08]: Mod: workshop-1378549454 ([API] Gem Core)	Registering prefabs	
+[00:00:08]: Mod: workshop-1378549454 ([API] Gem Core)	  Registering default mod prefab	
+[00:00:08]: Mod: workshop-1185229307 (Epic Healthbar)	Registering prefabs	
+[00:00:08]: Mod: workshop-1185229307 (Epic Healthbar)	  Registering prefab file: prefabs/epichealth_proxy	
+[00:00:08]: Mod: workshop-1185229307 (Epic Healthbar)	    epichealth_proxy	
+[00:00:08]: Mod: workshop-1185229307 (Epic Healthbar)	  Registering default mod prefab	
+[00:00:08]: Mod: workshop-2581394795 (Ultimate Extra Slots)	Registering prefabs	
+[00:00:08]: Mod: workshop-2581394795 (Ultimate Extra Slots)	  Registering default mod prefab	
+[00:00:08]: Mod: workshop-375859599 (Health Info)	Registering prefabs	
+[00:00:08]: Mod: workshop-375859599 (Health Info)	  Registering default mod prefab	
+[00:00:08]: Mod: workshop-767776640 (Repair Combine)	Registering prefabs	
+[00:00:08]: Mod: workshop-767776640 (Repair Combine)	  Registering default mod prefab	
+[00:00:08]: Mod: workshop-1644882423 (Refillable Salt Lick)	Registering prefabs	
+[00:00:08]: Mod: workshop-1644882423 (Refillable Salt Lick)	  Registering default mod prefab	
+[00:00:08]: Mod: workshop-501385076 (Quick Pick)	Registering prefabs	
+[00:00:08]: Mod: workshop-501385076 (Quick Pick)	  Registering default mod prefab	
+[00:00:08]: Mod: workshop-466732225 (No Thermal Stone Durability)	Registering prefabs	
+[00:00:08]: Mod: workshop-466732225 (No Thermal Stone Durability)	  Registering default mod prefab	
+[00:00:08]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	Registering prefabs	
+[00:00:08]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	  Registering default mod prefab	
+[00:00:08]: Mod: workshop-482843324 (Faster Tree Chopping)	Registering prefabs	
+[00:00:08]: Mod: workshop-482843324 (Faster Tree Chopping)	  Registering default mod prefab	
+[00:00:08]: Mod: workshop-2905450407 (Extended Map Icons)	Registering prefabs	
+[00:00:08]: Mod: workshop-2905450407 (Extended Map Icons)	  Registering prefab file: prefabs/mapiconhelper	
+[00:00:08]: Mod: workshop-2905450407 (Extended Map Icons)	    mapiconhelper	
+[00:00:08]: Mod: workshop-2905450407 (Extended Map Icons)	  Registering default mod prefab	
+[00:00:08]: Mod: workshop-376333686 (Combined Status)	Registering prefabs	
+[00:00:08]: Mod: workshop-376333686 (Combined Status)	  Registering default mod prefab	
+[00:00:08]: Mod: workshop-569043634 (Campfire Respawn)	Registering prefabs	
+[00:00:08]: Mod: workshop-569043634 (Campfire Respawn)	  Registering default mod prefab	
+[00:00:08]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:08]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:08]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:08]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:08]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:08]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:08]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:08]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:08]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:08]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:08]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:08]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:08]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:08]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:08]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:08]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:08]: Mod: workshop-1595631294 (Smart Minisign)	Registering prefabs	
+[00:00:08]: Mod: workshop-1595631294 (Smart Minisign)	  Registering default mod prefab	
+[00:00:08]: 	LOAD BE	
+[00:00:13]: Could not preload undefined prefab (hermitshop_supertacklecontainer)
+[00:00:13]: Could not preload undefined prefab (hermitshop_oceanfishingbobber_robin)
+[00:00:13]: Could not preload undefined prefab (transmute_opalpreciousgem)
+[00:00:13]: Could not preload undefined prefab (transmute_nightmarefuel)
+[00:00:13]: Could not preload undefined prefab (hermitshop_winter_ornament_boss_hermithouse)
+[00:00:13]: Could not preload undefined prefab (hermitshop_oceanfishinglure_hermit_heavy)
+[00:00:13]: Could not preload undefined prefab (transmute_beardhair)
+[00:00:13]: Could not preload undefined prefab (hermitshop_turf_shellbeach_blueprint)
+[00:00:13]: Could not preload undefined prefab (transmute_nitre)
+[00:00:13]: Could not preload undefined prefab (yotc_shrinecarrat)
+[00:00:13]: Could not preload undefined prefab (transmute_orangegem)
+[00:00:13]: Could not preload undefined prefab (hermitshop_oceanfishinglure_hermit_rain)
+[00:00:13]: Could not preload undefined prefab (hermitshop_tacklecontainer)
+[00:00:13]: Could not preload undefined prefab (transmute_horrorfuel)
+[00:00:13]: Could not preload undefined prefab (transmute_rocks)
+[00:00:14]: Could not preload undefined prefab (transmute_greengem)
+[00:00:14]: Could not preload undefined prefab (transmute_purplegem)
+[00:00:14]: Could not preload undefined prefab (transmute_dreadstone)
+[00:00:14]: Could not preload undefined prefab (transmute_meat)
+[00:00:14]: Could not preload undefined prefab (transmute_poop)
+[00:00:14]: Could not preload undefined prefab (transmute_houndstooth)
+[00:00:14]: Could not preload undefined prefab (transmute_boneshard)
+[00:00:14]: Could not preload undefined prefab (transmute_smallmeat)
+[00:00:14]: Could not preload undefined prefab (transmute_moonrocknugget)
+[00:00:14]: Could not preload undefined prefab (transmute_cutstone)
+[00:00:14]: Could not preload undefined prefab (transmute_bluegem)
+[00:00:14]: Could not preload undefined prefab (transmute_marble)
+[00:00:14]: Could not preload undefined prefab (transmute_flint)
+[00:00:14]: Could not preload undefined prefab (transmute_yellowgem)
+[00:00:14]: Could not preload undefined prefab (transmute_redgem)
+[00:00:14]: Could not preload undefined prefab (transmute_log)
+[00:00:14]: Could not preload undefined prefab (hermitshop_oceanfishingbobber_crow)
+[00:00:14]: Could not preload undefined prefab (hermitshop_oceanfishinglure_hermit_drowsy)
+[00:00:14]: Could not preload undefined prefab (hermitshop_chum)
+[00:00:14]: Could not preload undefined prefab (carnival_gametoken_multiple)
+[00:00:14]: Could not preload undefined prefab (carnival_popcorn)
+[00:00:14]: Could not preload undefined prefab (hermitshop_oceanfishingbobber_canary)
+[00:00:14]: Could not preload undefined prefab (tophat_magician)
+[00:00:14]: Could not preload undefined prefab (transmute_goldnugget)
+[00:00:14]: Could not preload undefined prefab (hermitshop_winter_ornament_boss_pearl)
+[00:00:14]: Could not preload undefined prefab (hermitshop_oceanfishingbobber_malbatross)
+[00:00:14]: Could not preload undefined prefab (hermitshop_oceanfishingbobber_goose)
+[00:00:14]: Could not preload undefined prefab (hermitshop_oceanfishinglure_hermit_snow)
+[00:00:14]: Could not preload undefined prefab (hermitshop_oceanfishingbobber_robin_winter)
+[00:00:14]: Could not preload undefined prefab (hermitshop_winch_blueprint)
+[00:00:14]: Could not preload undefined prefab (hermitshop_hermit_bundle_shells)
+[00:00:15]: Could not preload undefined prefab (transmute_twigs)
+[00:00:15]: Could not preload undefined prefab (transmute_beefalowool)
+[00:00:15]: Could not preload undefined prefab (wurt_turf_marsh)
+[00:00:15]: 	LOAD BE: done	
+[00:00:15]: Begin Session: 54D57FABF0163001
+[00:00:15]: saving to server_temp/server_save	
+[00:00:15]: OVERRIDE: setting	regrowth	to	fast	
+[00:00:15]: OVERRIDE: setting	wildfires	to	rare	
+[00:00:15]: OVERRIDE: setting	frograin	to	rare	
+[00:00:15]: OVERRIDE: setting	carrots_regrowth	to	fast	
+[00:00:15]: OVERRIDE: setting	beefaloheat	to	rare	
+[00:00:15]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-2905450407/images/icons_red_yellow.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[00:00:15]: Loading 19 new character(s)	
+[00:00:16]: Total 19 character(s) loaded	
+[00:00:16]: Loading Nav Grid	
+[00:00:16]: World generated on build 551676 with save version: 5.141, using seed: 1682179502	
+[00:00:16]: setting 	summerlength	15	
+[00:00:16]: setting 	cavemoonphase	quarter	
+[00:00:16]: setting 	iscavefullmoon	false	
+[00:00:16]: setting 	isnightmaredawn	false	
+[00:00:16]: setting 	elapseddaysinseason	18	
+[00:00:16]: setting 	isfullmoon	false	
+[00:00:16]: setting 	moisture	1553.1580810547	
+[00:00:16]: setting 	cavephase	day	
+[00:00:16]: setting 	iscavewaxingmoon	false	
+[00:00:16]: setting 	isnightmarewild	false	
+[00:00:16]: setting 	nightmaretimeinphase	0	
+[00:00:16]: setting 	precipitationrate	0	
+[00:00:16]: setting 	iswet	false	
+[00:00:16]: setting 	isnewmoon	false	
+[00:00:16]: setting 	precipitation	none	
+[00:00:16]: setting 	israining	false	
+[00:00:16]: setting 	isnightmarewarn	false	
+[00:00:16]: setting 	iswinter	false	
+[00:00:16]: setting 	season	autumn	
+[00:00:16]: setting 	remainingdaysinseason	2	
+[00:00:16]: setting 	winterlength	15	
+[00:00:16]: setting 	iscaveday	true	
+[00:00:16]: setting 	moistureceil	6140.9760742188	
+[00:00:16]: setting 	isday	true	
+[00:00:16]: setting 	springlength	20	
+[00:00:16]: setting 	wetness	0	
+[00:00:16]: setting 	iscavedusk	false	
+[00:00:16]: setting 	isalterawake	false	
+[00:00:16]: setting 	isnightmarecalm	false	
+[00:00:16]: setting 	isnight	false	
+[00:00:16]: setting 	isdusk	false	
+[00:00:16]: setting 	isspring	false	
+[00:00:16]: setting 	isautumn	true	
+[00:00:16]: setting 	issnowing	false	
+[00:00:16]: setting 	iswaxingmoon	false	
+[00:00:16]: setting 	phase	day	
+[00:00:16]: setting 	snowlevel	0	
+[00:00:16]: setting 	issnowcovered	false	
+[00:00:16]: setting 	autumnlength	20	
+[00:00:16]: setting 	pop	0.20818750953432	
+[00:00:16]: setting 	nightmaretime	0	
+[00:00:16]: setting 	seasonprogress	0.95	
+[00:00:16]: setting 	moonphase	quarter	
+[00:00:16]: setting 	nightmarephase	none	
+[00:00:16]: setting 	cycles	18	
+[00:00:16]: setting 	timeinphase	0.0047643752325148	
+[00:00:16]: setting 	iscavenight	false	
+[00:00:16]: setting 	iscavenewmoon	false	
+[00:00:16]: setting 	issummer	false	
+[00:00:16]: setting 	temperature	4.9721025527952	
+[00:00:16]: setting 	time	0.0020844141642252	
+[00:00:16]: OVERRIDE: setting	resettime	to	none	
+[00:00:16]: OVERRIDE: setting	basicresource_regrowth	to	always	
+[00:00:16]: OVERRIDE: setting	portalresurection	to	always	
+[00:00:16]: OVERRIDE: setting	ghostsanitydrain	to	none	
+[00:00:16]: OVERRIDE: setting	weather	to	rare	
+[00:00:17]: ----------------- HEALTH INFO WARNING ------------------	
+[00:00:17]: Some objects are not supported by the mod.	
+[00:00:17]: Unknown objects: lightcrab	
+[00:00:17]: You can enable these objects if you change the option "Unknown Objects".	
+[00:00:17]: See more info at http://steamcommunity.com/workshop/filedetails/discussion/375859599/343787283764426976/	
+[00:00:17]: --------------------------------------------------------	
+[00:00:23]: ----------------- HEALTH INFO WARNING ------------------	
+[00:00:23]: Unknown objects: boat_pirate	
+[00:00:26]: ----------------- HEALTH INFO WARNING ------------------	
+[00:00:26]: Unknown objects: hedgehound_bush	
+[00:00:27]: ----------------- HEALTH INFO WARNING ------------------	
+[00:00:27]: Unknown objects: stageusher	
+[00:00:28]: Reconstructing topology	
+[00:00:28]: 	...Sorting points	
+[00:00:28]: 	...Sorting edges	
+[00:00:28]: 	...Connecting nodes	
+[00:00:28]: 	...Validating connections	
+[00:00:29]: 	...Housekeeping	
+[00:00:29]: 	...Done!	
+[00:00:29]: Truncating to snapshot #24...
+[00:00:29]:  - session/54D57FABF0163001/0000000018
+[00:00:29]:  - session/54D57FABF0163001/0000000017
+[00:00:29]:  - session/54D57FABF0163001/A7IT2BARVLRA/0000000025
+[00:00:29]:  - session/54D57FABF0163001/A7IT2BARVLRA/0000000018
+[00:00:29]:  - session/54D57FABF0163001/A7IT2BARVLRA/0000000017
+[00:00:29]:  - session/54D57FABF0163001/A7LER1EPH62I/0000000018
+[00:00:29]:    6 file(s) removed
+[00:00:29]: Restoring user: session/54D57FABF0163001/A7IT2BARVLRA/0000000024	
+[00:00:29]: Serializing user: session/54D57FABF0163001/A7IT2BARVLRA/0000000025
+[00:00:29]: 1 uploads added to server. From server_temp
+[00:00:29]: About to start a shard with these settings:
+[00:00:29]:   ShardName: [SHDMASTER]
+[00:00:29]:   ShardID: 1
+[00:00:29]:   ShardRole: MASTER
+[00:00:29]:   MasterHost: (null)
+[00:00:29]:   MasterBind: 127.0.0.1
+[00:00:29]:   MasterPort: 10889
+[00:00:29]: [Shard] Starting master server
+[00:00:29]: [Shard] Shard server started on port: 10889
+[00:00:29]: Telling Client our new session identifier: 54D57FABF0163001
+[00:00:29]: Check for write access: TRUE
+[00:00:29]: Check for read access: TRUE
+[00:00:29]: Available disk space for save files: 54273 MB
+[00:00:29]: ModIndex: Load sequence finished successfully.	
+[00:00:29]: Reset() returning
+[00:00:30]: Validating portal[2] <-> 85500214[2] (inactive)	
+[00:00:30]: Validating portal[6] <-> 85500214[6] (inactive)	
+[00:00:30]: Validating portal[10] <-> 85500214[10] (inactive)	
+[00:00:30]: Validating portal[7] <-> 85500214[7] (inactive)	
+[00:00:30]: Validating portal[5] <-> 85500214[5] (inactive)	
+[00:00:30]: Validating portal[1] <-> 85500214[1] (inactive)	
+[00:00:30]: Validating portal[9] <-> 85500214[9] (inactive)	
+[00:00:30]: Validating portal[8] <-> 85500214[8] (inactive)	
+[00:00:30]: Validating portal[4] <-> 85500214[4] (inactive)	
+[00:00:30]: Validating portal[3] <-> 85500214[3] (inactive)	
+[00:00:30]: Could not find anim build FROMNUM
+[00:00:30]: Server registered via geo DNS in ap-east-1
+[00:00:30]: Sim paused
+[00:00:31]: [Shard] Secondary shard Caves(85500214) connected: [LAN] 127.0.0.1
+[00:00:31]: [Shard] Secondary Caves(85500214) ready!
+[00:00:31]: World 85500214 is now connected	
+[00:00:31]: [SyncWorldSettings] Sending master world option basicresource_regrowth = always to secondary shards.	
+[00:00:31]: [SyncWorldSettings] Sending master world option portalresurection = always to secondary shards.	
+[00:00:31]: [SyncWorldSettings] Sending master world option ghostsanitydrain = none to secondary shards.	
+[00:00:31]: [SyncWorldSettings] Sending master world option resettime = none to secondary shards.	
+[00:00:31]: Validating portal[2] <-> 85500214[2] (disabled)	
+[00:00:31]: Validating portal[6] <-> 85500214[6] (disabled)	
+[00:00:31]: Validating portal[10] <-> 85500214[10] (active)	
+[00:00:31]: Validating portal[7] <-> 85500214[7] (active)	
+[00:00:31]: Validating portal[5] <-> 85500214[5] (disabled)	
+[00:00:31]: Validating portal[1] <-> 85500214[1] (disabled)	
+[00:00:31]: Validating portal[9] <-> 85500214[9] (disabled)	
+[00:00:31]: Validating portal[8] <-> 85500214[8] (disabled)	
+[00:00:31]: Validating portal[4] <-> 85500214[4] (disabled)	
+[00:00:31]: Validating portal[3] <-> 85500214[3] (disabled)	
+[00:00:31]: [SyncWorldSettings] Resyncing master world option basicresource_regrowth = always to secondary shards.	
+[00:00:31]: [SyncWorldSettings] Resyncing master world option portalresurection = always to secondary shards.	
+[00:00:31]: [SyncWorldSettings] Resyncing master world option ghostsanitydrain = none to secondary shards.	
+[00:00:31]: [SyncWorldSettings] Resyncing master world option resettime = none to secondary shards.	
+[00:08:00]: New incoming connection 223.137.230.29|56420 <11983046353509573514>
+[00:08:00]: Client connected from 223.137.230.29|56420 <11983046353509573514>
+[00:08:00]: ValidateGameSessionToken GUID<11983046353509573514>
+[00:08:01]: Client authenticated: (KU_NHBLlzMm) SHFLTE
+[00:08:01]: [Steam] Authenticated host '76561198131976550'
+[00:08:04]: There is no active event to validate against.
+[00:08:04]: [Shard] Read save location file for (KU_NHBLlzMm)
+[00:08:21]: Resuming user: session/54D57FABF0163001/A7IT2BARVLDG/0000000024
+[00:08:21]: Spawning player at: [Load] (-199.28, 0.00, 78.53)	
+[00:08:21]: Sim unpaused
+[00:10:15]: Could not find anim build FROMNUM
+[00:11:20]: Server Autopaused	
+[00:11:25]: Server Unpaused	
+[00:14:18]: New incoming connection 36.226.40.106|52591 <8035101275135216866>
+[00:14:18]: Client connected from 36.226.40.106|52591 <8035101275135216866>
+[00:14:18]: ValidateGameSessionToken GUID<8035101275135216866>
+[00:14:19]: Client authenticated: (KU_NHBLlzTg) Stetas
+[00:14:19]: [Steam] SendUserConnectAndAuthenticate for '76561198446680520'
+[00:14:19]: [Steam] Authenticated client '76561198446680520'
+[00:14:20]: There is no active event to validate against.
+[00:14:20]: [Shard] Read save location file for (KU_NHBLlzTg)
+[00:14:47]: Resuming user: session/54D57FABF0163001/A7IT2BARVLRA/0000000025
+[00:14:47]: Spawning player at: [Load] (-197.86, 0.00, 75.94)	
+[00:15:08]: Could not find anim build FROMNUM
+[00:15:16]: Could not find anim build FROMNUM
+[00:16:27]: Available disk space for save files: 54273 MB
+[00:16:27]: Serializing user: session/54D57FABF0163001/A7IT2BARVLDG/0000000025
+[00:16:27]: Serializing user: session/54D57FABF0163001/A7IT2BARVLRA/0000000025
+[00:16:28]: Serializing world: session/54D57FABF0163001/0000000025
+[00:16:31]: Could not find anim build FROMNUM
+[00:16:39]: Could not find anim build FROMNUM
+[00:22:43]: Could not find anim build FROMNUM
+[00:23:01]: Could not find anim build FROMNUM
+[00:23:30]: Could not find anim build FROMNUM
+[00:24:20]: Could not find anim build FROMNUM
+[00:24:28]: Available disk space for save files: 54268 MB
+[00:24:28]: Serializing user: session/54D57FABF0163001/A7IT2BARVLDG/0000000026
+[00:24:28]: Serializing user: session/54D57FABF0163001/A7IT2BARVLRA/0000000026
+[00:24:29]: Serializing world: session/54D57FABF0163001/0000000026
+[00:27:06]: Could not find anim build FROMNUM
+[00:28:58]: Could not find anim build FROMNUM
+[00:29:24]: Rate limiting RPCs from	122788 - wendy	KU_NHBLlzMm	last one being ID	40	
+[00:30:05]: [200] Account Communication Success (6)
+[00:30:05]: Received (KU_NHBLlzMm) from TokenPurpose
+[00:32:29]: Available disk space for save files: 54264 MB
+[00:32:29]: Serializing user: session/54D57FABF0163001/A7IT2BARVLDG/0000000027
+[00:32:29]: Serializing user: session/54D57FABF0163001/A7IT2BARVLRA/0000000027
+[00:32:30]: Serializing world: session/54D57FABF0163001/0000000027
+[00:40:29]: Available disk space for save files: 54259 MB
+[00:40:30]: Serializing user: session/54D57FABF0163001/A7IT2BARVLDG/0000000028
+[00:40:30]: Serializing user: session/54D57FABF0163001/A7IT2BARVLRA/0000000028
+[00:40:31]: Serializing world: session/54D57FABF0163001/0000000028
+[00:42:23]: Could not find anim build FROMNUM
+[00:42:52]: Could not find anim build FROMNUM
+[00:42:57]: New incoming connection 114.35.218.57|53505 <463331854980737523>
+[00:42:57]: Client connected from 114.35.218.57|53505 <463331854980737523>
+[00:42:57]: ValidateGameSessionToken GUID<463331854980737523>
+[00:42:57]: Client authenticated: (KU_hjXTc9XI) 玩具
+[00:42:57]: [Steam] SendUserConnectAndAuthenticate for '76561198938185806'
+[00:42:58]: [Steam] Authenticated client '76561198938185806'
+[00:42:59]: There is no active event to validate against.
+[00:42:59]: [Shard] Read save location file for (KU_hjXTc9XI)
+[00:43:20]: Resuming user: session/54D57FABF0163001/A7LER1EPH62I/0000000021
+[00:43:20]: Player will spawn close to portal #10	
+[00:43:20]: Spawning player at: [Load] (-505.17, 0.00, -15.02)	
+[00:43:48]: Could not find anim [death] in bank [ghost]
+[00:43:48]: Serializing user: session/54D57FABF0163001/A7LER1EPH62I/0000000029
+[00:46:47]: Could not find anim [idle_loop] in bank [ghost]
+[00:46:50]: Could not find anim [transform] in bank [wilson]
+[00:46:51]: Serializing user: session/54D57FABF0163001/A7LER1EPH62I/0000000029
+[00:47:04]: New incoming connection 125.228.145.72|61379 <3794355535727020249>
+[00:47:04]: Client connected from 125.228.145.72|61379 <3794355535727020249>
+[00:47:04]: ValidateGameSessionToken GUID<3794355535727020249>
+[00:47:04]: Client authenticated: (KU_j4gTaPX3) ORca
+[00:47:05]: [Steam] SendUserConnectAndAuthenticate for '76561198394054604'
+[00:47:05]: [Steam] Authenticated client '76561198394054604'
+[00:47:06]: There is no active event to validate against.
+[00:47:06]: [Shard] Read save location file for (KU_j4gTaPX3)
+[00:47:32]: Resuming user: session/54D57FABF0163001/A7LK9AEP3623
+[00:48:31]: Available disk space for save files: 54254 MB
+[00:48:31]: Serializing user: session/54D57FABF0163001/A7IT2BARVLDG/0000000029
+[00:48:31]: Serializing user: session/54D57FABF0163001/A7IT2BARVLRA/0000000029
+[00:48:31]: Serializing user: session/54D57FABF0163001/A7LER1EPH62I/0000000029
+[00:48:32]: Serializing world: session/54D57FABF0163001/0000000029
+[00:48:43]: Spawn request: woodie from ORca
+[00:48:43]: Skin request: () () () () ()
+[00:48:43]: Skill Selection request: 0
+[00:48:43]: Spawning player at: [Fixed] (-316.00, 0.00, 28.00)	
+[00:48:43]: Serializing user: session/54D57FABF0163001/A7LK9AEP3623/0000000030
+[00:48:44]: Invalid skilltree characterprefab to ValidateCharacterData:	135894 - woodie	woodie	
+[00:50:34]: Could not find anim build FROMNUM
+[00:51:30]: Could not find anim build FROMNUM
+[00:52:17]: Could not find anim build FROMNUM

@@ -14,6 +14,7 @@ KLEI     1 return {
     ["workshop-482843324"]={ enabled=true },
     ["workshop-501385076"]={ enabled=true },
     ["workshop-569043634"]={ enabled=true },
+    ["workshop-666155465"]={ enabled=true },
     ["workshop-767776640"]={ enabled=true } 
   },
   server={
@@ -24,8 +25,8 @@ KLEI     1 return {
     max_players=8,
     name="SH server",
     online_mode=true,
-    password="",
-    playstyle="survival",
+    password="910615",
+    playstyle="endless",
     privacy_type=0,
     pvp=false,
     server_language="en" 
@@ -45,7 +46,11 @@ KLEI     1 return {
       numrandom_set_pieces=0,
       override_level_string=false,
       overrides={
+        basicresource_regrowth="always",
+        ghostsanitydrain="none",
         layout_mode="RestrictNodesByKey",
+        portalresurection="always",
+        resettime="none",
         roads="never",
         season_start="default",
         start_location="caves",

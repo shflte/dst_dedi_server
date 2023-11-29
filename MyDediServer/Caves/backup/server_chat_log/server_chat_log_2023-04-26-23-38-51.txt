@@ -1,0 +1,39 @@
+[00:12:26]: [Join Announcement] SHFLTE
+[00:14:57]: [Vote Announcement] rollback passed
+[00:14:57]: [Death Announcement] SHFLTE was killed by Freezing. She became a spooky ghost!
+[00:21:02]: [Skin Announcement] Stetas hand_waxwell_lunar
+[00:22:25]: [Skin Announcement] SHFLTE feet_wx78_yule
+[00:47:18]: [Death Announcement] SHFLTE was killed by Darkness. She became a spooky ghost!
+[00:47:32]: [Resurrect Announcement] SHFLTE was resurrected by Fire Pit.
+[00:52:07]: [Death Announcement] SHFLTE was killed by MacTusk. She became a spooky ghost!
+[00:52:18]: [Resurrect Announcement] SHFLTE was resurrected by Fire Pit.
+[00:56:43]: [Death Announcement] Stetas was killed by MacTusk. He became a spooky ghost!
+[00:57:13]: [Resurrect Announcement] Stetas was resurrected by Fire Pit.
+[00:57:44]: [Death Announcement] SHFLTE was killed by MacTusk. She became a spooky ghost!
+[00:57:56]: [Resurrect Announcement] SHFLTE was resurrected by Fire Pit.
+[01:02:51]: [Death Announcement] Stetas was killed by Darkness. He became a spooky ghost!
+[01:02:53]: [Resurrect Announcement] Stetas was resurrected by Fire Pit.
+[01:03:06]: [Death Announcement] Stetas was killed by Darkness. He became a spooky ghost!
+[01:03:14]: [Resurrect Announcement] Stetas was resurrected by Fire Pit.
+[01:24:09]: [Vote Announcement] rollback passed
+[01:25:19]: [Vote Announcement] rollback passed
+[01:26:29]: [Skin Announcement] Stetas legs_pants_basic_brown_sepia
+[01:35:42]: [Death Announcement] SHFLTE was killed by Blue Hound. She became a spooky ghost!
+[01:36:32]: [Resurrect Announcement] SHFLTE was resurrected by Fire Pit.
+[01:37:52]: [Death Announcement] SHFLTE was killed by Freezing. She became a spooky ghost!
+[01:38:01]: [Vote Announcement] rollback passed
+[01:40:09]: [Death Announcement] SHFLTE was killed by Deerclops. She became a spooky ghost!
+[01:40:52]: [Death Announcement] Stetas was killed by Crawling Horror. He became a spooky ghost!
+[01:41:23]: [Vote Announcement] rollback passed
+[01:51:17]: [Death Announcement] SHFLTE was killed by Terrorbeak. She became a spooky ghost!
+[01:51:30]: [Death Announcement] Stetas was killed by Tallbird. He became a spooky ghost!
+[01:51:55]: [Resurrect Announcement] Stetas was resurrected by Fire Pit.
+[01:51:58]: [Resurrect Announcement] SHFLTE was resurrected by Fire Pit.
+[01:56:31]: [Skin Announcement] SHFLTE walterhat_victorian
+[02:47:01]: [Skin Announcement] SHFLTE feet_woodie_hippie
+[02:48:23]: [Leave Announcement] Stetas
+[02:55:05]: [Join Announcement] Stetas
+[02:55:36]: [Skin Announcement] Stetas legs_shorts_blue_cerulean
+[02:59:06]: [Leave Announcement] Stetas
+[02:59:21]: [Leave Announcement] SHFLTE
+[01:53:02]: [Join Announcement] SHFLTE
