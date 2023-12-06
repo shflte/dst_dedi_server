@@ -18,16 +18,16 @@ KLEI     1 return {
     ["workshop-767776640"]={ enabled=true } 
   },
   server={
-    clan={ admin=false, id="", only=false },
+    clan={ admin=true, id="103582791474300593", only=true },
     description="No dumb donkey allowed",
     encode_user_path=true,
     game_mode="survival",
     max_players=8,
     name="SH server",
     online_mode=true,
-    password="910615",
+    password="",
     playstyle="endless",
-    privacy_type=0,
+    privacy_type=3,
     pvp=false,
     server_language="en" 
   },

@@ -1,0 +1,7 @@
+[00:01:31]: [Join Announcement] SHFLTE
+[00:02:32]: [Vote Announcement] rollback passed
+[00:08:18]: [Join Announcement] Stetas
+[00:13:20]: [Skin Announcement] Stetas hand_longgloves_blue_cerulean
+[00:39:10]: [Leave Announcement] Stetas
+[00:42:55]: [Skin Announcement] SHFLTE feet_ankleboot_brown_beaver
+[00:45:46]: [Leave Announcement] SHFLTE

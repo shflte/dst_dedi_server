@@ -1,0 +1,2 @@
+[00:01:12]: [Join Announcement] SHFLTE
+[00:03:13]: [Leave Announcement] SHFLTE

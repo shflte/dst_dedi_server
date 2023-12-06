@@ -1,0 +1,4 @@
+[00:02:30]: [Join Announcement] lalaben
+[00:02:32]: [Join Announcement] SHFLTE
+[00:03:14]: [Leave Announcement] SHFLTE
+[00:04:23]: [Leave Announcement] lalaben

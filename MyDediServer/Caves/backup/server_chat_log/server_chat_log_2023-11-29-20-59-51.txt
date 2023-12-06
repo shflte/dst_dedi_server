@@ -1,6 +1,0 @@
-[00:45:23]: [Join Announcement] SHFLTE
-[01:10:52]: [Skin Announcement] SHFLTE legs_skirt_pleated_red_burgundy
-[01:30:49]: [Vote Announcement] rollback passed
-[01:38:28]: [Vote Announcement] rollback passed
-[01:38:31]: [Death Announcement] SHFLTE was killed by Terrorbeak. She became a spooky ghost!
-[01:48:11]: [Leave Announcement] SHFLTE
